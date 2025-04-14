@@ -1,0 +1,2 @@
+Ce fichier a été créé le 14 avril 2025.
+Il servira à conserver les logs du projet.
